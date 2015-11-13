@@ -2,6 +2,8 @@
 
 The free password manager for power users.
 
+![X11 screencast gif](https://unrelenting.technology/pub/screens/freepass-x11.gif)
+
 ## What's going on?
 
 - A password manager.
