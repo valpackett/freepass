@@ -11,6 +11,7 @@ repository = "https://github.com/myfreeweb/freepass"
 
 [lib]
 name = "freepass_capi"
+crate-type = [ "dylib", "staticlib" ]
 
 [dependencies]
 freepass-core = { version = "0", path = "../core", default-features = false, features = [] }
